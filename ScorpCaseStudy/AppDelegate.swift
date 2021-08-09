@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ScorpCaseStudy
 //
-//  Created by Sociable on 6.08.2021.
+//  Created by Kursat on 6.08.2021.
 //
 
 import UIKit
